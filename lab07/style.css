@@ -1,0 +1,47 @@
+table{
+    border: solid black;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: rgb(40,40,40);
+    
+
+}
+
+td{
+    background-color: rgb(40,40,40);
+    color: white;
+    padding: 1.5em;
+    font-size: 150%;
+}
+
+
+
+
+#s-rank{
+background-color: rgb(114, 189, 3) ;
+}
+
+#a-rank{
+    background-color:greenyellow ;
+}
+
+#b-rank{
+    background-color: yellow;
+}
+
+#c-rank{
+    background-color: orange;
+}
+
+#d-rank{
+    background-color:red ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 20px;
+}
+
+
